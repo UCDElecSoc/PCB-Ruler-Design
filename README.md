@@ -1,5 +1,5 @@
 # PCB-Ruler-Design
-This is the Gerber file for a decorative PCB ruler to be distributed at the Freshers Week 26/27. The project is designed by UCD ElecSoc Auditor Mike Chen with EasyEDA and kindly sponsored by JLCPCB.
+This is the Gerber file for a decorative PCB ruler to be distributed at the semester 26/27 Freshers week. The project is designed by UCD ElecSoc Auditor Mike Chen with EasyEDA and kindly sponsored by JLCPCB.
 <table>
   <tr>
     <td align="center" width="33%">
